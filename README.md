@@ -15,4 +15,4 @@ For further information, suggestions or doubts, please contact:
 * Natália Rodrigues: natvnr@gmail.com or natalia.villa.rodrigues@usp.br
 * Natalí de Santi: natalidesanti@gmail.com or natali.santi@usp.br
 
-If you use any of the codes or models presented here, please cite the paper.
+If you use any of the codes or models presented here, please cite the paper: [arXiv: 2301.06398](https://arxiv.org/abs/2301.06398).
